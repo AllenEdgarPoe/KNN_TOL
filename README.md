@@ -1,5 +1,5 @@
 # KNN_TowerOfLondon
-KNN classifier using the data of Tower of London
+KNN classifier using the data of Tower of London test (population: Korean University students from Cognitive Psychology class2018)
 
 TOLz data is a result of *Tower of London test* from the class2018 Cognitive Pyschology.
 KNN_TOL is a KNN classifier using TOLz data.
